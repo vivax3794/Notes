@@ -10,6 +10,10 @@
 # Python libs to check out and learn to use often
 
 ## Standard lib
+* datetime
+* collections
+* itertools
+* functools
 
 ## 3-party
 * python-ranges
