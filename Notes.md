@@ -28,3 +28,10 @@
 # Things I want to make
 - [ ] Once I understand maschine learning I want to make my own ML lib
 
+# nothing
+r(a-2)
+
+\*ntr
+
+4132.990.1185.525.2415
+
