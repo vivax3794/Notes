@@ -7,7 +7,7 @@
 ## Other stuff
 [ ] Better
 [ ] ML
-	[ ] therefore also tensor flow
+	* therefore also tensor flow
 
 # Python libs to check out and learn to use often
 
