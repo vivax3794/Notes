@@ -46,10 +46,14 @@ def meta_shortcut(cls: Type[T]) -> T:
 ### Example
 ```python
 @meta_shortcut
-class Colors(type):
-	def __new__(
+class Color(type):
+	pass
+
+# now this can be used like this:
+class Red(Color):
+	pass
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQzNzU0ODksNjIxOTUzMjUsLTExMT
-YyMTgwNDldfQ==
+eyJoaXN0b3J5IjpbLTcxMDM1MzU4Miw2MjE5NTMyNSwtMTExNj
+IxODA0OV19
 -->
