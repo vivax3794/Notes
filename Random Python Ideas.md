@@ -31,8 +31,18 @@ Easier to make meta classes.
 
 ### code
 ```python
+from typing import TypeVar, Type
 
+T = TypeVar("T")
+
+def meta_shortcut(cls: Type[T]) -> T:
+	class wrapper(metaclass=cls):
+		pass
+	
+	wrapper.__name__ = cls.__name__
+	return wrapper
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxOTUzMjUsLTExMTYyMTgwNDldfQ==
+eyJoaXN0b3J5IjpbLTE5NjU4Mzc1NTgsNjIxOTUzMjUsLTExMT
+YyMTgwNDldfQ==
 -->
