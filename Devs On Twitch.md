@@ -11,11 +11,14 @@ but be warned the automod settings and the `Auto Reporting` custom command group
 # Channels
 A list of all out channels.
 ## INFO
-`#rules` - This are our rules.
+`#rules` - This are our rules
 `#stream-announcements` - here our bot will post when somebody with the `Streamers` role goes live
 `#roles` - here you can get some self assigned roles :)
 ## CHATS
-`#general` - talk about an
+`#general` - talk about anything
+`#coding-general`- talk about anything with code to do
+`#projects` - share some of your nice projects
+`#clash-links` - some like to play [Clas of CodE](https://www.codingame.com/multiplayer/clashofcode)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjMzNzc5OF19
+eyJoaXN0b3J5IjpbLTIxMjAwOTk3MjhdfQ==
 -->
