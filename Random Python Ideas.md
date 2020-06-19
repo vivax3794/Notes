@@ -42,7 +42,13 @@ def meta_shortcut(cls: Type[T]) -> T:
 	wrapper.__name__ = cls.__name__
 	return wrapper
 ```
+
+### Example
+```python
+@meta_shortcut
+class Col
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjU4Mzc1NTgsNjIxOTUzMjUsLTExMT
-YyMTgwNDldfQ==
+eyJoaXN0b3J5IjpbLTUyODkwNzQwOSw2MjE5NTMyNSwtMTExNj
+IxODA0OV19
 -->
