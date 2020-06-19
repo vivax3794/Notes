@@ -1,37 +1,13 @@
-# Things I want to learn
+# Things to Learn
+I need to learn some more stuff
+- [
+## Python frameworks
 
-## python stuff
-- [ ] Curses
+ - [ ] Numpy
+ - [ ] Arcade
 
-- [ ] Tenserflow
 
-## Other stuff
-- [ ] Better
-- [ ] ML
-	* therefore also tensor flow
-
-# Python libs to check out and learn to use often
-
-## Standard lib
-- [ ] datetime
-- [ ] collections
-- [ ] itertools
-- [ ] functools
-
-## 3-party
-- [ ] python-ranges
-
-# Todo
-- [ ] port my python bot to my own twitch lib
-	- [ ] this also means I need to add cog abilities to it.
-
-# Things I want to make
-- [ ] Once I understand maschine learning I want to make my own ML lib
-
-# nothing
-r(a-2)
-
-\*ntr
-
-4132.990.1185.525.2415
-
+  
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDE4OTM4MDc4XX0=
+-->
