@@ -16,8 +16,16 @@ def instance(cls: Type[T]) -> T:
 ```python
 @instance
 class God:
-	def \
+	def heaven_or_hell(self, name: str) -> None:
+		if len(name) % 2 == 1: # odd is not nice
+			return "hell"
+		else:
+			return "heaven"
+
+# now this is valid code
+God.heaven_or_hell("vivax")
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTAyMzI3N119
+eyJoaXN0b3J5IjpbLTExMTYyMTgwNDldfQ==
 -->
