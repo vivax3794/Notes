@@ -5,7 +5,8 @@ This is a server for developers streaming on twitch, and those who like watching
 <https://discord.gg/wCXYuT9>
 
 # Bot
-We use [YAGPDB]()
+We use [YAGPDB](https://yagpdb.xyz/), you can see the current settings for the bot [Here](https://yagpdb.xyz/manage/723187073284309121/home).
+but be warned the au 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTQwNTQ4MV19
+eyJoaXN0b3J5IjpbLTE0OTUzODkzOTJdfQ==
 -->
