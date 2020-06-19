@@ -26,6 +26,13 @@ class God:
 God.heaven_or_hell("vivax")
 ```
 
+## Meta Class Shortcut
+Easier to make meta classes.
+
+### code
+```python
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTYyMTgwNDldfQ==
+eyJoaXN0b3J5IjpbNjIxOTUzMjUsLTExMTYyMTgwNDldfQ==
 -->
