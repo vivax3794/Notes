@@ -11,8 +11,11 @@ but be warned the automod settings and the `Auto Reporting` custom command group
 # Channels
 A list of all out channels.
 ## INFO
-`# rules` - This are our rules.
-` 
+`#rules` - This are our rules.
+`#stream-announcements` - here our bot will post when somebody with the `Streamers` role goes live
+`#roles` - here you can get some self assigned roles :)
+## CHATS
+`#general` - talk about an
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzE4NTEyMl19
+eyJoaXN0b3J5IjpbLTY4NjMzNzc5OF19
 -->
