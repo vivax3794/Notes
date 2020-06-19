@@ -12,18 +12,25 @@ but be warned the automod settings and the `Auto Reporting` custom command group
 A list of all out channels.
 ## INFO
 `#rules` - This are our rules
+
 `#stream-announcements` - here our bot will post when somebody with the `Streamers` role goes live
+
 `#roles` - here you can get some self assigned roles :)
 ## CHATS
 `#general` - talk about anything
+
 `#coding-general`- talk about anything with code to do
+
 `#projects` - share some of your nice projects
-`#clash-links` - some like to play [Clash of CodE](https://www.codingame.com/multiplayer/clashofcode) so here we ping those with the `Clashers` roles, get it in `#roles`
+
+`#clash-links` - some like to play [Clash of CodE](https://www.codingame.com/multiplayer/clashofcode) so 
+here we ping those with the `Clashers` roles, get it in `#roles`
+
 `#bot-commands` - play with the bot
 
 ## LANGUAGE CHANNELS
 `#[language name]`- talk about stuff related to [language name]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5Njg4MTA5N119
+eyJoaXN0b3J5IjpbLTIxMDQ4NTU1MTUsLTI5Njg4MTA5N119
 -->
